@@ -1,6 +1,8 @@
 ## what is morphnet??
 
-morphnet is a sophisticated technique for neural network model refinement.  MorphNet takes an existing neural network as input and produces a new neural network that is smaller, faster, and yields better performance tailored to a new problem. MorphNet optimizes a neural network through a cycle of shrinking and expanding phases
+morphnet is a sophisticated technique for neural network model refinement.  
+MorphNet takes an existing neural network as input and produces a new neural network that is smaller, faster, and yields better performance tailored to a new problem. 
+MorphNet optimizes a neural network through a cycle of shrinking and expanding phases
 
 
 
